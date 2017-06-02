@@ -1,0 +1,11 @@
+name: Gift
+version: 0.3.1
+main: me.borawski.gift.Gifts
+description: Gift items to players! Even if they are offline.
+
+commands:
+     gift:
+          description: Send gifts to friends with /gift send <user>
+     box:
+          description: Open your available gifts
+          aliases: [mailbox, box, giftbox]
